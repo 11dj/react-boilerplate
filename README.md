@@ -1,6 +1,6 @@
 # React-template
 
-I created this for saving time to create components, containers, routes, reducer and install several necessary package.
+I created this for saving time to create components, containers, routes, reducer and install several necessary packages.
 
 -------
 
@@ -28,4 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[No license](https://choosealicense.com/licenses/mit/)# wfdrsa2018
+[No license](https://choosealicense.com/licenses/mit/)# 
